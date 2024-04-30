@@ -1,4 +1,4 @@
-<picture>
+<picture align="center">
  <source srcset="pfp.png">
  <img alt="A green trident inside a laurel wreath>
 </picture>
