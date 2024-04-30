@@ -1,9 +1,7 @@
-<h1 align="center">
-  <picture style="width: 100px">
+<picture>
     <source srcset="https://github.com/Eashan414/Eashan414/blob/main/pfp.png">
     <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-  </picture>
-</h1>
+</picture>
 
 <h1 align="center">Eashan Talluri</h1>
 
