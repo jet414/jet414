@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="/Users/eashantalluri/Desktop/insignia/pfp dark BG.png">
+ <source media="(prefers-color-scheme: light)" srcset="/Users/eashantalluri/Desktop/insignia/pfp.png">
+ <img alt="A green trident inside a laurel wreath"">
 </picture>
 <h1 align="center">Eashan Talluri</h1>
 
