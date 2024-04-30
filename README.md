@@ -1,6 +1,6 @@
-<picture align="center">
- <source srcset="pfp.png">
-</picture>
+<h1 align="center">
+ <img srcset="pfp.png">
+</h1>
 
 <h1 align="center">Eashan Talluri</h1>
 
