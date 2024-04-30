@@ -2,6 +2,7 @@
  <source srcset="pfp.png">
  <img alt="A green trident inside a laurel wreath>
 </picture>
+
 <h1 align="center">Eashan Talluri</h1>
 
 <h2 align="center">Coder + 3D Artist( in progress)</h2>
