@@ -1,7 +1,9 @@
-<picture>
-    <source srcset="https://github.com/Eashan414/Eashan414/blob/main/pfp.png">
-    <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+<h2 align="center">
+    <picture>
+        <source srcset="https://github.com/Eashan414/Eashan414/blob/main/pfp.png">
+        <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+    </picture>
+</h2>
 
 <h1 align="center">Eashan Talluri</h1>
 
