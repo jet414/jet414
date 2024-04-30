@@ -1,5 +1,5 @@
 <picture>
- <source media="(prefers-color-scheme: light)" srcset="/Users/eashantalluri/Desktop/insignia/pfp.png">
+ <source media="(prefers-color-scheme: light)" srcset="pfp.png">
  <img alt="A green trident inside a laurel wreath>
 </picture>
 <h1 align="center">Eashan Talluri</h1>
