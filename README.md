@@ -1,6 +1,5 @@
 <picture align="center">
- <source srcset="pfp.png">
- <img alt="A green trident inside a laurel wreath>
+ <source src="pfp.png">
 </picture>
 
 <h1 align="center">Eashan Talluri</h1>
