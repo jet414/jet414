@@ -1,5 +1,5 @@
 <picture align="center">
- <source src="pfp.png">
+ <source srcset="pfp.png">
 </picture>
 
 <h1 align="center">Eashan Talluri</h1>
