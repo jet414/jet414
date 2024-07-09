@@ -9,7 +9,7 @@
 
 <h2 align="center">Coder + 3D Artist( in progress)</h2>
 
-- I'm in 7th grade
+- I'm going to 8th grade
 - I'm in New York **STATE**
 - I know Java, and a good amount of Python. I'm learning JavaScript and Bootstrap right now. HTML and CSS are also things I'm learning in parallel.
 - I like to read and write, and my favorite book is *A Darkling Plain* by Philip Reeve. I have a lot of projects I'm writing, including two sci-fi novels, one a spy novel, one a space action novel
